@@ -1,0 +1,12 @@
+D:\Work\DockerAKS\Azure.ServiceBus\bin\Debug\netcoreapp3.1\Azure.ServiceBus.deps.json
+D:\Work\DockerAKS\Azure.ServiceBus\bin\Debug\netcoreapp3.1\Azure.ServiceBus.dll
+D:\Work\DockerAKS\Azure.ServiceBus\obj\Debug\netcoreapp3.1\Azure.ServiceBus.AssemblyInfoInputs.cache
+D:\Work\DockerAKS\Azure.ServiceBus\obj\Debug\netcoreapp3.1\Azure.ServiceBus.AssemblyInfo.cs
+D:\Work\DockerAKS\Azure.ServiceBus\bin\Debug\netcoreapp3.1\Azure.ServiceBus.pdb
+D:\Work\DockerAKS\Azure.ServiceBus\bin\Debug\netcoreapp3.1\Service.Domain.dll
+D:\Work\DockerAKS\Azure.ServiceBus\bin\Debug\netcoreapp3.1\Service.Domain.pdb
+D:\Work\DockerAKS\Azure.ServiceBus\obj\Debug\netcoreapp3.1\Azure.ServiceBus.csprojAssemblyReference.cache
+D:\Work\DockerAKS\Azure.ServiceBus\obj\Debug\netcoreapp3.1\Azure.ServiceBus.csproj.CoreCompileInputs.cache
+D:\Work\DockerAKS\Azure.ServiceBus\obj\Debug\netcoreapp3.1\Azure.ServiceBus.csproj.CopyComplete
+D:\Work\DockerAKS\Azure.ServiceBus\obj\Debug\netcoreapp3.1\Azure.ServiceBus.dll
+D:\Work\DockerAKS\Azure.ServiceBus\obj\Debug\netcoreapp3.1\Azure.ServiceBus.pdb

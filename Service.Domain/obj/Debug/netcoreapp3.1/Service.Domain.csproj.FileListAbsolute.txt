@@ -1,0 +1,9 @@
+D:\Work\DockerAKS\Service.Domain\bin\Debug\netcoreapp3.1\Service.Domain.deps.json
+D:\Work\DockerAKS\Service.Domain\bin\Debug\netcoreapp3.1\Service.Domain.dll
+D:\Work\DockerAKS\Service.Domain\bin\Debug\netcoreapp3.1\Service.Domain.pdb
+D:\Work\DockerAKS\Service.Domain\obj\Debug\netcoreapp3.1\Service.Domain.csprojAssemblyReference.cache
+D:\Work\DockerAKS\Service.Domain\obj\Debug\netcoreapp3.1\Service.Domain.AssemblyInfoInputs.cache
+D:\Work\DockerAKS\Service.Domain\obj\Debug\netcoreapp3.1\Service.Domain.AssemblyInfo.cs
+D:\Work\DockerAKS\Service.Domain\obj\Debug\netcoreapp3.1\Service.Domain.csproj.CoreCompileInputs.cache
+D:\Work\DockerAKS\Service.Domain\obj\Debug\netcoreapp3.1\Service.Domain.dll
+D:\Work\DockerAKS\Service.Domain\obj\Debug\netcoreapp3.1\Service.Domain.pdb
